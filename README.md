@@ -73,5 +73,5 @@ The app displays a reward system that encourages users to reduce screen time.
 
 Code file- https://drive.google.com/file/d/1Y7jrbgZJHT1AE3HXh98nX2c5LxxIJ6AS/view?usp=sharing
 
-Screenshot
+***Screenshot***
 ![Screenshot 2025-04-01 195750](https://github.com/user-attachments/assets/069a9ab1-5f6c-4646-abfc-565774face7a)
